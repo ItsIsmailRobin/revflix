@@ -5603,8 +5603,6 @@ function init() {
     </div>
 	
 	<div style="margin-bottom: 20px" class="mdui-center mdui-text-center">
-     
-        <img src="" alt="revxD">
       </a>
     </div>
     `
