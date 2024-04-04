@@ -5597,14 +5597,14 @@ function init() {
 
 	</style>
 	  <div class="container">
-  <img src="https://raw.githubusercontent.com/ItsIsmailRobin/revflix/main/revflixyt.png" alt="RevFlix">
+  <img src="https://raw.githubusercontent.com/ItsIsmailRobin/revflix/main/rev000.png" alt="RevFlix">
 </div>
     </div>
     </div>
 	
 	<div style="margin-bottom: 20px" class="mdui-center mdui-text-center">
-      <a href="https://www.facebook.com/ItsIsmailRobin" target="_blank">
-        <img src="https://img.shields.io/badge/contact-teal?style=for-the-badge&logo=telegram&logoColor=white&label=%40Rev71&labelColor=Blue" alt="revxD">
+     
+        <img src="" alt="revxD">
       </a>
     </div>
     `
