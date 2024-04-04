@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,group-title="Movies" tvg-logo="https://media-cache.cinematerial.com/p/500x/72opw4ry/hi-nanna-indian-movie-poster.jpg",Hi Nanna
-http://10.16.100.213/iccftps13/iccftps13sasd3/Movies/South%20Indian%20(Hindi%20Dubbed)/Hi%20Nanna%20(2023)%201080p%20WEBDL.mp4
+#EXTINF:-1,group-title="Movies" tvg-logo="https://raw.githubusercontent.com/ItsIsmailRobin/revflix/main/poster.png",REVFLIX
+https://raw.githubusercontent.com/ItsIsmailRobin/revflix/main/poster.png
 #EXTINF:-1,group-title="Movies" tvg-logo="https://miro.medium.com/v2/resize:fit:1170/1*1cUNWC_7-8AWJDNDYVSYFw.jpeg",Tiger 3
 http://10.16.100.213/iccftps13/iccftps13sasd7/Movies/Hindi/Tiger%203%20(2023)%20720p%20WEBRip.mp4
 #EXTINF:-1,group-title="Series" tvg-logo="https://image.tmdb.org/t/p/w185/7aFtathzhnqWJpdlDaJWV37eUfS.jpg",Osomoy
